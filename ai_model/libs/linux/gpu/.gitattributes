@@ -1,0 +1,2 @@
+libnvinfer.so filter=lfs diff=lfs merge=lfs -text
+libnvinfer.so.6 filter=lfs diff=lfs merge=lfs -text

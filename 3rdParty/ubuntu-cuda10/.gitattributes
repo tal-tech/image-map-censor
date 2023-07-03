@@ -1,0 +1,4 @@
+libcudnn.so.7 filter=lfs diff=lfs merge=lfs -text
+libnvinfer.so.6 filter=lfs diff=lfs merge=lfs -text
+libcublas.so.10.0 filter=lfs diff=lfs merge=lfs -text
+libprotobuf.so.15 filter=lfs diff=lfs merge=lfs -text
